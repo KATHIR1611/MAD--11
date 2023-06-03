@@ -1,4 +1,4 @@
-# Ex.No:11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No:11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio
 
 ### AIM:
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
@@ -29,7 +29,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number :212221220026
 
-Activity_main.xml
+activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -135,7 +135,7 @@ Activity_main.xml
         app:layout_constraintVertical_bias="0.772" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-Main_activity.java
+MainActivity.java
 ```
 package com.example.animation;
 
