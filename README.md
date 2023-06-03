@@ -321,9 +321,8 @@ Zoom.xml
 ```
 
 ### OUTPUT:
-![]()
-
-![]()
+![](https://github.com/KATHIR1611/MAD--11/blob/main/ui%203.png)
+![](https://github.com/KATHIR1611/MAD--11/blob/main/ui%204.png)
 
 ### RESULT:
 
